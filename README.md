@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chungite
 - 👀 I’m interested in Football
-- 🌱 I’m currently learning CSS, JAVASCRIPT, HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Please dont
+- 🌱 I’m currently learning: CSS, JAVASCRIPT, HTML
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me: Please dont
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The human head weighs 8 pounds
 
